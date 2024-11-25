@@ -1,6 +1,3 @@
-Hier ist ein Beispiel für eine anonymisierte `README.md`-Datei für dein GitHub-Repository:
-
-
 # Podcast Downloader
 
 Ein einfaches Python-Skript, um MP3-Dateien von Podcasts zu extrahieren und herunterzuladen. Dieses Skript ist speziell für Seiten geeignet, die auf der Podigee-Plattform gehostet werden.
